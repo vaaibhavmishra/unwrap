@@ -1,0 +1,56 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd "$(dirname "$0")/.."
+if [[ $# != 2 ]]; then
+  echo 'Usage: bash script/release-macos v0.1.0 aarch64|x86_64' >&2
+  exit 1
+fi
+release_tag="$1"
+release_arch="$2"
+case "$release_arch" in
+  aarch64) asset_arch=arm64 ;;
+  x86_64) asset_arch=x86_64 ;;
+  *) echo 'Architecture must be aarch64 or x86_64.' >&2; exit 1 ;;
+esac
+python3 script/unwrap_release.py version "$release_tag"
+export GIT_RELEASE_TAG="$release_tag"
+export CARGO_BUILD_JOBS="${CARGO_BUILD_JOBS:-2}"
+export CARGO_PROFILE_RELEASE_LTO_LTO="${CARGO_PROFILE_RELEASE_LTO_LTO:-false}"
+export CARGO_PROFILE_RELEASE_LTO_DEBUG="${CARGO_PROFILE_RELEASE_LTO_DEBUG:-0}"
+export CARGO_PROFILE_RELEASE_LTO_SPLIT_DEBUGINFO="${CARGO_PROFILE_RELEASE_LTO_SPLIT_DEBUGINFO:-off}"
+unset WARP_LOCAL_SKIP_METAL NO_LICENSES SKIP_SETTINGS_SCHEMA SETTINGS_SCHEMA_SOURCE SETTINGS_SCHEMA_EXECUTABLE
+
+rustup target add "$release_arch-apple-darwin"
+cargo metadata --locked --no-deps --format-version 1 > /dev/null
+lock_checksum=$(shasum -a 256 Cargo.lock)
+cargo fetch --locked --target "$release_arch-apple-darwin"
+./script/macos/bundle --channel oss --nosign --arch "$release_arch" --dmg-name-suffix "$asset_arch"
+test "$lock_checksum" = "$(shasum -a 256 Cargo.lock)"
+
+output=target/release-lto/bundle/osx
+app="$output/Unwrap.app"
+python3 script/unwrap_release.py bundle "$release_tag" "$release_arch" "$app"
+hdiutil verify "$output/Unwrap-$asset_arch.dmg"
+
+mountpoint=$(mktemp -d)
+cleanup() {
+  hdiutil detach "$mountpoint" > /dev/null 2>&1 || true
+  rmdir "$mountpoint" 2>/dev/null || true
+}
+trap cleanup EXIT
+hdiutil attach "$output/Unwrap-$asset_arch.dmg" -readonly -nobrowse -mountpoint "$mountpoint"
+python3 script/unwrap_release.py bundle "$release_tag" "$release_arch" "$mountpoint/Unwrap.app"
+diff -qr "$app" "$mountpoint/Unwrap.app"
+hdiutil detach "$mountpoint"
+rmdir "$mountpoint"
+trap - EXIT
+
+asset="Unwrap-$release_tag-macos-$asset_arch.dmg"
+mkdir -p dist
+cp "$output/Unwrap-$asset_arch.dmg" "dist/$asset"
+(
+  cd dist
+  shasum -a 256 "$asset" > "$asset.sha256"
+)
+echo "Release asset: dist/$asset"

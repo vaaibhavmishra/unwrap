@@ -1,0 +1,23 @@
+{
+  "fill": {
+    "automatic-gradient": "extended-srgb:0.04314,0.05098,0.05490,1.00000"
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "image-name": "Unwrap.svg",
+          "name": "Unwrap",
+          "blend-mode": "normal",
+          "glass": false
+        }
+      ]
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}
