@@ -1,0 +1,351 @@
+{
+  "name": "Unwrap",
+  "identity": "V7 Glow",
+  "files": [
+    {
+      "file": "apple-touch-icon.png",
+      "bytes": 8603,
+      "sha256": "873da4d620bcd3e11b552d91cb73d2deff900ca1169b5ec9ba4e841492805c49"
+    },
+    {
+      "file": "favicon-16.png",
+      "bytes": 304,
+      "sha256": "1cea8c524ff784e49203a774e9693130b96706bd61e7ef971e70cb150606a199"
+    },
+    {
+      "file": "favicon-32.png",
+      "bytes": 448,
+      "sha256": "b3e93b1c5c3c1f2ed89d82e5caca05dc79a47eda45dcfbdf563a258222162072"
+    },
+    {
+      "file": "favicon.svg",
+      "bytes": 301,
+      "sha256": "72aa25a054231398b9c3346f9c294e99cb6ea608e22c83cc470709537e35f227"
+    },
+    {
+      "file": "integration.json",
+      "bytes": 1016,
+      "sha256": "a97c0b4f67f7ab335e4d7fabcb7b728a117fdd40dd883ef14a970a227ee7daa1"
+    },
+    {
+      "file": "source/unwrap-app-icon-dark.svg",
+      "bytes": 1771,
+      "sha256": "6d209e0dc130da14b89ff76d11432a44854ef074b47245db8022f49dfa775551"
+    },
+    {
+      "file": "source/unwrap-app-icon-flat.svg",
+      "bytes": 897,
+      "sha256": "a6b88ca92ddb8b840e79a04620c5cb92da60e2696f946a7b99308f066ae4e051"
+    },
+    {
+      "file": "source/unwrap-app-icon-glow.svg",
+      "bytes": 1835,
+      "sha256": "354481d92e0fe3d12f6794bb496a8dcb72ad693ad0d3017539684a6d36bbbc49"
+    },
+    {
+      "file": "source/unwrap-app-icon-light.svg",
+      "bytes": 1771,
+      "sha256": "8c42fae38ca6cb670660f4070fe2f40eaae88f44dfee957d3d8f2a817a7c3014"
+    },
+    {
+      "file": "source/unwrap-app-icon-mono.svg",
+      "bytes": 773,
+      "sha256": "eb30c03daeedceee5576a5c2156ce8eb5a8f802bc85c5ccc5ffc735c89dc2166"
+    },
+    {
+      "file": "source/unwrap-app-icon-outline.svg",
+      "bytes": 817,
+      "sha256": "a764af9cccb99952fa18564dd99ad83a6fd3416a2c6ea0a265d353dcbf76eb49"
+    },
+    {
+      "file": "tokens.css",
+      "bytes": 231,
+      "sha256": "7c1b7b183a4fec111fd02696dc6bccf0060accb2e5529f0f4f41701433c5361b"
+    },
+    {
+      "file": "tokens.json",
+      "bytes": 186,
+      "sha256": "55128218142f796dbe64517d1d75d493f3f208af9e4022475d5361fd0bc82e37"
+    },
+    {
+      "file": "unwrap-app-icon-1024.png",
+      "bytes": 68325,
+      "sha256": "c7342dddb7b218508500c8e9f0ed6aad577a69849d554907173e1c58633f5997"
+    },
+    {
+      "file": "unwrap-app-icon-dark.png",
+      "bytes": 56113,
+      "sha256": "b9682bf29773f99195956083aa919de075f52c013908cafc99e8c17a138f8db3"
+    },
+    {
+      "file": "unwrap-app-icon-flat.png",
+      "bytes": 42511,
+      "sha256": "7c6cb65a289e6fa0816c517c0453ce960cbd9209e8d0eed73e17e15bb143c6ef"
+    },
+    {
+      "file": "unwrap-app-icon-glow.png",
+      "bytes": 68325,
+      "sha256": "c7342dddb7b218508500c8e9f0ed6aad577a69849d554907173e1c58633f5997"
+    },
+    {
+      "file": "unwrap-app-icon-light.png",
+      "bytes": 51778,
+      "sha256": "d24556ef1f7157d298d34828e5157b8d5cadd060a06dfd34d93ea9fb5b63fbd8"
+    },
+    {
+      "file": "unwrap-app-icon-mono.png",
+      "bytes": 37479,
+      "sha256": "d1378adaad7967b5ba45ebe9db951734ba5952c150247f73d751d7c03775f126"
+    },
+    {
+      "file": "unwrap-app-icon-outline.png",
+      "bytes": 49135,
+      "sha256": "71cbf7295fc98159d7d7571f8f0990e85cfa6632f3069c0ed3e1c843983fdfa9"
+    },
+    {
+      "file": "unwrap-icon-128.png",
+      "bytes": 7322,
+      "sha256": "1d9cfa5078027b28c96b6dcd6621ed986c55f2c7c61d968c50217329a57cb352"
+    },
+    {
+      "file": "unwrap-icon-16.png",
+      "bytes": 304,
+      "sha256": "1cea8c524ff784e49203a774e9693130b96706bd61e7ef971e70cb150606a199"
+    },
+    {
+      "file": "unwrap-icon-256.png",
+      "bytes": 14488,
+      "sha256": "39a01987b102148d8cb3e0e269a59d98f04f051d789a04b98851320baa91466a"
+    },
+    {
+      "file": "unwrap-icon-32.png",
+      "bytes": 448,
+      "sha256": "b3e93b1c5c3c1f2ed89d82e5caca05dc79a47eda45dcfbdf563a258222162072"
+    },
+    {
+      "file": "unwrap-icon-48.png",
+      "bytes": 2735,
+      "sha256": "63ac9b741e19dae76d39e1952a08701993448d6816b3b889bae2ae1bc553819e"
+    },
+    {
+      "file": "unwrap-icon-512.png",
+      "bytes": 29643,
+      "sha256": "1de7b580992a97bb1520f663a5b7832a32ca1750bf80ba0b4a163ec7aa95b337"
+    },
+    {
+      "file": "unwrap-icon-64.png",
+      "bytes": 3656,
+      "sha256": "43933df81d0cb1077ffa58a6c6d90cd8f108d16df3a393ed09659dcc2f62a736"
+    },
+    {
+      "file": "unwrap-logo-lockup-black.png",
+      "bytes": 6181,
+      "sha256": "ea13470cc1f0b004c885a034e1f123ac1a999e7061250714bd0a422edfe92791"
+    },
+    {
+      "file": "unwrap-logo-lockup-black.svg",
+      "bytes": 4827,
+      "sha256": "5f3e2166dffd073d2330c2a3a3d329826397bef30e0048cb5dc319fd3c5b3375"
+    },
+    {
+      "file": "unwrap-logo-lockup-dark.png",
+      "bytes": 26266,
+      "sha256": "dd9a90c8592f4c4b67229b6d44ddba3cdf16c1189689a649268d0f7d2f0e01e7"
+    },
+    {
+      "file": "unwrap-logo-lockup-dark.svg",
+      "bytes": 5837,
+      "sha256": "fb88773a5680462644f844250c623aa4373ec1d576ac6c0f1e49718e6fb5419b"
+    },
+    {
+      "file": "unwrap-logo-lockup-light.png",
+      "bytes": 23863,
+      "sha256": "a27b641bb6c9491a731754bfffacae4a7e41fca75e494ccfd14b45aca2777601"
+    },
+    {
+      "file": "unwrap-logo-lockup-light.svg",
+      "bytes": 5837,
+      "sha256": "268eec320e775c447fef82ea998fdae665660c47f7779e8fed998fce673cbf83"
+    },
+    {
+      "file": "unwrap-logo-lockup-white.png",
+      "bytes": 15682,
+      "sha256": "ee2816343f6c9ecf2791c1bb49b764ba899560090600c72a8aea0070c9e5ae8d"
+    },
+    {
+      "file": "unwrap-logo-lockup-white.svg",
+      "bytes": 4840,
+      "sha256": "3b44daed387c538aed5562c107c9d080f7e3a0fb883da939a54cc2c5ebf81cbb"
+    },
+    {
+      "file": "unwrap-logo-lockup.svg",
+      "bytes": 5837,
+      "sha256": "fb88773a5680462644f844250c623aa4373ec1d576ac6c0f1e49718e6fb5419b"
+    },
+    {
+      "file": "unwrap-logo-stacked-black.png",
+      "bytes": 13847,
+      "sha256": "2856081418bed46510fdc9b6c75b5ce3ce5eec36d0bc4df76c09ccfaae877512"
+    },
+    {
+      "file": "unwrap-logo-stacked-black.svg",
+      "bytes": 4827,
+      "sha256": "fd9cde0461e2f79553b8ce3e316c231f56fc0525ece9c4d050ac788cf4e8c9e3"
+    },
+    {
+      "file": "unwrap-logo-stacked-dark.png",
+      "bytes": 42065,
+      "sha256": "42afff00d663c352bb5f82171da435a8f6e9f65ca9c7bc6844e95da815098bdc"
+    },
+    {
+      "file": "unwrap-logo-stacked-dark.svg",
+      "bytes": 5837,
+      "sha256": "a498a3a2a83c93eaecadd071558ad6d18702e7fe6f874ee608bf00e4c2ddc2de"
+    },
+    {
+      "file": "unwrap-logo-stacked-light.png",
+      "bytes": 37622,
+      "sha256": "f6abbf7cc8c9627f58421fff1a636d8546f55ae8aab87f068f31894fd5a8a2a4"
+    },
+    {
+      "file": "unwrap-logo-stacked-light.svg",
+      "bytes": 5837,
+      "sha256": "70788bd1c2106778b2cea518f4ad378bc831fdec067315f97c1ca75814a0ce18"
+    },
+    {
+      "file": "unwrap-logo-stacked-white.png",
+      "bytes": 21590,
+      "sha256": "183e141a8654ab85fa79b65f9dbe429365739f5b7be6e416e33c8847ca9ca2a0"
+    },
+    {
+      "file": "unwrap-logo-stacked-white.svg",
+      "bytes": 4840,
+      "sha256": "5c153aaaa7bd1beba6fc73bedd42b1b46cb497f57f6a6bc93b7f69834b963812"
+    },
+    {
+      "file": "unwrap-symbol-black.svg",
+      "bytes": 245,
+      "sha256": "af24f8d6649c71774341606f85b460b1e03ec0462ef66f6e262a5918f17b2a47"
+    },
+    {
+      "file": "unwrap-symbol-flat.svg",
+      "bytes": 369,
+      "sha256": "78d891b6e669d984622c85c3c3c5741652be149f381edd43379e0cb70fb03bf4"
+    },
+    {
+      "file": "unwrap-symbol-glow.png",
+      "bytes": 61984,
+      "sha256": "945b2b052a9158768ef17f2dc63eabf10ac3feec2c97c89e384507e9083649b4"
+    },
+    {
+      "file": "unwrap-symbol-glow.svg",
+      "bytes": 1523,
+      "sha256": "6918a327c284ba01701555a6c8f02ed735edd7ee96e62d3c5faa8e15152e5259"
+    },
+    {
+      "file": "unwrap-symbol-light.svg",
+      "bytes": 1240,
+      "sha256": "8c533d09b362486a58eb3bd9107e5c4d2d87f37df5a46d438f879bacb47e99ae"
+    },
+    {
+      "file": "unwrap-symbol-mono.svg",
+      "bytes": 250,
+      "sha256": "ae7f1603be7f70a36fba3230c3b35811531168b434eacb4152d6b1ab7a957703"
+    },
+    {
+      "file": "unwrap-symbol-outline.svg",
+      "bytes": 289,
+      "sha256": "087497e6f7c0cdb0ef351eef18eccb8b059ed2b77755d555e6eabe283eca85fd"
+    },
+    {
+      "file": "unwrap-symbol-small.svg",
+      "bytes": 245,
+      "sha256": "7569b6519fdc9f4062967ca0fb062666187fbc682bc851b2bd7cc729526c2e6b"
+    },
+    {
+      "file": "unwrap-symbol-white.svg",
+      "bytes": 245,
+      "sha256": "2a5a56b15cbbdb1ab78a4b9c6458c035d96a557c5a1b808de8e2a6a3cc4e1bd8"
+    },
+    {
+      "file": "unwrap-symbol.png",
+      "bytes": 40080,
+      "sha256": "e4a7a66180c03002fb9d46b5eb4da0584ae6d565cd10df3eba933e4b07f9f5fb"
+    },
+    {
+      "file": "unwrap-symbol.svg",
+      "bytes": 1354,
+      "sha256": "ee2ce5fd3e7e974e4d3e7ea9c44d112acfb135529143978b476da416c3760e09"
+    },
+    {
+      "file": "unwrap-wordmark-dark.svg",
+      "bytes": 4620,
+      "sha256": "a47bc2bfdd70eb37c926e9b67b2cba26180f2d9f6468c1ab167dbc0ef47940a1"
+    },
+    {
+      "file": "unwrap-wordmark-light.svg",
+      "bytes": 4620,
+      "sha256": "b152e45363b1e15d022598a8420207736d28c993d5a207ad4e9730e2c6e9341c"
+    },
+    {
+      "file": "unwrap.icns",
+      "bytes": 169407,
+      "sha256": "8a4cda79ed53305c1250c8c84d00179d597c73f97ca9a14615f11dc077931aca"
+    },
+    {
+      "file": "unwrap.ico",
+      "bytes": 29923,
+      "sha256": "af2ef4ba8c52b5d01475a57a1d3d121cfcc1b684aefe0805b0f6e9f3aabc2883"
+    },
+    {
+      "file": "unwrap.iconset/icon_128x128.png",
+      "bytes": 7322,
+      "sha256": "1d9cfa5078027b28c96b6dcd6621ed986c55f2c7c61d968c50217329a57cb352"
+    },
+    {
+      "file": "unwrap.iconset/icon_128x128@2x.png",
+      "bytes": 14488,
+      "sha256": "39a01987b102148d8cb3e0e269a59d98f04f051d789a04b98851320baa91466a"
+    },
+    {
+      "file": "unwrap.iconset/icon_16x16.png",
+      "bytes": 380,
+      "sha256": "8a809cacc33f08e429c85ebb3fb1b017c4d30827e7390377b6438d490d247fef"
+    },
+    {
+      "file": "unwrap.iconset/icon_16x16@2x.png",
+      "bytes": 687,
+      "sha256": "22e3d39ce00b5eb38f7ad95b595d1d38a18587c3dc2213d8e7b60adc98eab19f"
+    },
+    {
+      "file": "unwrap.iconset/icon_256x256.png",
+      "bytes": 14488,
+      "sha256": "39a01987b102148d8cb3e0e269a59d98f04f051d789a04b98851320baa91466a"
+    },
+    {
+      "file": "unwrap.iconset/icon_256x256@2x.png",
+      "bytes": 29643,
+      "sha256": "1de7b580992a97bb1520f663a5b7832a32ca1750bf80ba0b4a163ec7aa95b337"
+    },
+    {
+      "file": "unwrap.iconset/icon_32x32.png",
+      "bytes": 687,
+      "sha256": "22e3d39ce00b5eb38f7ad95b595d1d38a18587c3dc2213d8e7b60adc98eab19f"
+    },
+    {
+      "file": "unwrap.iconset/icon_32x32@2x.png",
+      "bytes": 3656,
+      "sha256": "43933df81d0cb1077ffa58a6c6d90cd8f108d16df3a393ed09659dcc2f62a736"
+    },
+    {
+      "file": "unwrap.iconset/icon_512x512.png",
+      "bytes": 29643,
+      "sha256": "1de7b580992a97bb1520f663a5b7832a32ca1750bf80ba0b4a163ec7aa95b337"
+    },
+    {
+      "file": "unwrap.iconset/icon_512x512@2x.png",
+      "bytes": 68325,
+      "sha256": "c7342dddb7b218508500c8e9f0ed6aad577a69849d554907173e1c58633f5997"
+    }
+  ]
+}

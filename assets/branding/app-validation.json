@@ -1,0 +1,793 @@
+{
+  "assets": [
+    {
+      "file": "app/assets/bundled/svg/unwrap-symbol.svg",
+      "bytes": 245
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-2.svg",
+      "bytes": 245
+    },
+    {
+      "file": "script/warp.svg",
+      "bytes": 245
+    },
+    {
+      "file": "app/assets/bundled/svg/warp.svg",
+      "bytes": 2572
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-drive.svg",
+      "bytes": 2572
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-3.svg",
+      "bytes": 567
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-loading-0.svg",
+      "bytes": 262,
+      "opacity": 1.0
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-loading-1.svg",
+      "bytes": 262,
+      "opacity": 0.9665
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-loading-2.svg",
+      "bytes": 262,
+      "opacity": 0.875
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-loading-3.svg",
+      "bytes": 262,
+      "opacity": 0.75
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-loading-4.svg",
+      "bytes": 262,
+      "opacity": 0.625
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-loading-5.svg",
+      "bytes": 262,
+      "opacity": 0.5335
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-loading-6.svg",
+      "bytes": 262,
+      "opacity": 0.5
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-loading-7.svg",
+      "bytes": 262,
+      "opacity": 0.5335
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-loading-8.svg",
+      "bytes": 262,
+      "opacity": 0.625
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-loading-9.svg",
+      "bytes": 262,
+      "opacity": 0.75
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-loading-10.svg",
+      "bytes": 262,
+      "opacity": 0.875
+    },
+    {
+      "file": "app/assets/bundled/svg/warp-loading-11.svg",
+      "bytes": 262,
+      "opacity": 0.9665
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/aurora.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/blue.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/classic_1.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/classic_2.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/classic_3.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/comets.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/cow.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/dark.png",
+      "bytes": 37337,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/dev.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/glass_sky.png",
+      "bytes": 35113,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/glitch.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/glow.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/holographic.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/light.png",
+      "bytes": 35113,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/local.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/mono.png",
+      "bytes": 20991,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/neon.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/original.png",
+      "bytes": 37337,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/preview.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/starburst.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/sticker.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/DockTilePlugin/Resources/warp_2.png",
+      "bytes": 45643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/channels/oss/icon/no-padding/16x16.png",
+      "bytes": 304,
+      "format": "PNG",
+      "size": [
+        16,
+        16
+      ]
+    },
+    {
+      "file": "app/channels/oss/icon/no-padding/32x32.png",
+      "bytes": 448,
+      "format": "PNG",
+      "size": [
+        32,
+        32
+      ]
+    },
+    {
+      "file": "app/channels/oss/icon/no-padding/48x48.png",
+      "bytes": 2735,
+      "format": "PNG",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "file": "app/channels/oss/icon/no-padding/64x64.png",
+      "bytes": 3656,
+      "format": "PNG",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "app/channels/oss/icon/no-padding/128x128.png",
+      "bytes": 7322,
+      "format": "PNG",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "file": "app/channels/oss/icon/no-padding/256x256.png",
+      "bytes": 14488,
+      "format": "PNG",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "app/channels/oss/icon/no-padding/512x512.png",
+      "bytes": 29643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/channels/oss/icon/no-padding/icon.ico",
+      "bytes": 29923,
+      "format": "ICO",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "app/channels/stable/icon/no-padding/16x16.png",
+      "bytes": 304,
+      "format": "PNG",
+      "size": [
+        16,
+        16
+      ]
+    },
+    {
+      "file": "app/channels/stable/icon/no-padding/32x32.png",
+      "bytes": 448,
+      "format": "PNG",
+      "size": [
+        32,
+        32
+      ]
+    },
+    {
+      "file": "app/channels/stable/icon/no-padding/48x48.png",
+      "bytes": 2735,
+      "format": "PNG",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "file": "app/channels/stable/icon/no-padding/64x64.png",
+      "bytes": 3656,
+      "format": "PNG",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "app/channels/stable/icon/no-padding/128x128.png",
+      "bytes": 7322,
+      "format": "PNG",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "file": "app/channels/stable/icon/no-padding/256x256.png",
+      "bytes": 14488,
+      "format": "PNG",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "app/channels/stable/icon/no-padding/512x512.png",
+      "bytes": 29643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/channels/stable/icon/no-padding/icon.ico",
+      "bytes": 29923,
+      "format": "ICO",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "app/channels/stable/icon/AppIcon.icon/Assets/4-2.png",
+      "bytes": 40080,
+      "format": "PNG",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "app/channels/stable/icon/AppIcon.icon/Assets/Glyph (1).svg",
+      "bytes": 1354
+    },
+    {
+      "file": "app/channels/stable/icon/AppIcon.icon/Assets/Unwrap.svg",
+      "bytes": 1354
+    },
+    {
+      "file": "app/channels/stable/icon/AppIcon.icon/icon.json",
+      "bytes": 392
+    },
+    {
+      "file": "app/channels/preview/icon/no-padding/16x16.png",
+      "bytes": 304,
+      "format": "PNG",
+      "size": [
+        16,
+        16
+      ]
+    },
+    {
+      "file": "app/channels/preview/icon/no-padding/32x32.png",
+      "bytes": 448,
+      "format": "PNG",
+      "size": [
+        32,
+        32
+      ]
+    },
+    {
+      "file": "app/channels/preview/icon/no-padding/48x48.png",
+      "bytes": 2735,
+      "format": "PNG",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "file": "app/channels/preview/icon/no-padding/64x64.png",
+      "bytes": 3656,
+      "format": "PNG",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "app/channels/preview/icon/no-padding/128x128.png",
+      "bytes": 7322,
+      "format": "PNG",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "file": "app/channels/preview/icon/no-padding/256x256.png",
+      "bytes": 14488,
+      "format": "PNG",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "app/channels/preview/icon/no-padding/512x512.png",
+      "bytes": 29643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/channels/preview/icon/no-padding/icon.ico",
+      "bytes": 29923,
+      "format": "ICO",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "app/channels/preview/icon/AppIcon.icon/Assets/Preview.png",
+      "bytes": 40080,
+      "format": "PNG",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "app/channels/preview/icon/AppIcon.icon/Assets/Unwrap.svg",
+      "bytes": 1354
+    },
+    {
+      "file": "app/channels/preview/icon/AppIcon.icon/icon.json",
+      "bytes": 392
+    },
+    {
+      "file": "app/channels/dev/icon/no-padding/16x16.png",
+      "bytes": 304,
+      "format": "PNG",
+      "size": [
+        16,
+        16
+      ]
+    },
+    {
+      "file": "app/channels/dev/icon/no-padding/32x32.png",
+      "bytes": 448,
+      "format": "PNG",
+      "size": [
+        32,
+        32
+      ]
+    },
+    {
+      "file": "app/channels/dev/icon/no-padding/48x48.png",
+      "bytes": 2735,
+      "format": "PNG",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "file": "app/channels/dev/icon/no-padding/64x64.png",
+      "bytes": 3656,
+      "format": "PNG",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "app/channels/dev/icon/no-padding/128x128.png",
+      "bytes": 7322,
+      "format": "PNG",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "file": "app/channels/dev/icon/no-padding/256x256.png",
+      "bytes": 14488,
+      "format": "PNG",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "app/channels/dev/icon/no-padding/512x512.png",
+      "bytes": 29643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/channels/dev/icon/no-padding/icon.ico",
+      "bytes": 29923,
+      "format": "ICO",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "app/channels/dev/icon/AppIcon.icon/Assets/Glyph.svg",
+      "bytes": 1354
+    },
+    {
+      "file": "app/channels/dev/icon/AppIcon.icon/Assets/Guidelines.svg",
+      "bytes": 1354
+    },
+    {
+      "file": "app/channels/dev/icon/AppIcon.icon/Assets/PLACE HERE.png",
+      "bytes": 40080,
+      "format": "PNG",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "app/channels/dev/icon/AppIcon.icon/Assets/Unwrap.svg",
+      "bytes": 1354
+    },
+    {
+      "file": "app/channels/dev/icon/AppIcon.icon/icon.json",
+      "bytes": 392
+    },
+    {
+      "file": "app/channels/local/icon/no-padding/16x16.png",
+      "bytes": 304,
+      "format": "PNG",
+      "size": [
+        16,
+        16
+      ]
+    },
+    {
+      "file": "app/channels/local/icon/no-padding/32x32.png",
+      "bytes": 448,
+      "format": "PNG",
+      "size": [
+        32,
+        32
+      ]
+    },
+    {
+      "file": "app/channels/local/icon/no-padding/48x48.png",
+      "bytes": 2735,
+      "format": "PNG",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "file": "app/channels/local/icon/no-padding/64x64.png",
+      "bytes": 3656,
+      "format": "PNG",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "app/channels/local/icon/no-padding/128x128.png",
+      "bytes": 7322,
+      "format": "PNG",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "file": "app/channels/local/icon/no-padding/256x256.png",
+      "bytes": 14488,
+      "format": "PNG",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "app/channels/local/icon/no-padding/512x512.png",
+      "bytes": 29643,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "app/channels/local/icon/no-padding/icon.ico",
+      "bytes": 29923,
+      "format": "ICO",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "app/channels/local/icon/AppIcon.icon/Assets/warp-glyph 3.svg",
+      "bytes": 1354
+    },
+    {
+      "file": "app/channels/local/icon/AppIcon.icon/Assets/Unwrap.svg",
+      "bytes": 1354
+    },
+    {
+      "file": "app/channels/local/icon/AppIcon.icon/icon.json",
+      "bytes": 392
+    },
+    {
+      "file": "app/assets/resources/mac/warp_install_image.png",
+      "bytes": 17615,
+      "format": "PNG",
+      "size": [
+        700,
+        500
+      ]
+    },
+    {
+      "file": "script/windows/installer-images/warp-logo.bmp",
+      "bytes": 10262,
+      "format": "BMP",
+      "size": [
+        58,
+        58
+      ]
+    },
+    {
+      "file": "script/windows/installer-images/warp-banner.bmp",
+      "bytes": 234134,
+      "format": "BMP",
+      "size": [
+        202,
+        385
+      ]
+    },
+    {
+      "file": "app/assets/async/png/onboarding/openwarp_launch_banner.png",
+      "bytes": 5644,
+      "format": "PNG",
+      "size": [
+        420,
+        92
+      ]
+    },
+    {
+      "file": "app/assets/async/png/onboarding/agent_intention/customize_warpdrive_horizontal.png",
+      "bytes": 153450,
+      "format": "PNG",
+      "size": [
+        1803,
+        2040
+      ]
+    },
+    {
+      "file": "app/assets/async/png/onboarding/agent_intention/customize_warpdrive_vertical.png",
+      "bytes": 153450,
+      "format": "PNG",
+      "size": [
+        1803,
+        2040
+      ]
+    },
+    {
+      "file": "app/assets/async/png/onboarding/terminal_intention/terminal_customize_warpdrive_horizontal.png",
+      "bytes": 153450,
+      "format": "PNG",
+      "size": [
+        1803,
+        2040
+      ]
+    },
+    {
+      "file": "app/assets/async/png/onboarding/terminal_intention/terminal_customize_warpdrive_vertical.png",
+      "bytes": 153450,
+      "format": "PNG",
+      "size": [
+        1803,
+        2040
+      ]
+    }
+  ]
+}

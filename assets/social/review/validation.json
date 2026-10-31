@@ -1,0 +1,87 @@
+{
+  "exports": [
+    {
+      "file": "exports/unwrap-launch-landscape.png",
+      "dimensions": [
+        1200,
+        630
+      ],
+      "format": "PNG",
+      "mode": "RGB",
+      "hash_matches": true
+    },
+    {
+      "file": "exports/unwrap-product-screenshot.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "format": "PNG",
+      "mode": "RGB",
+      "hash_matches": true
+    },
+    {
+      "file": "exports/unwrap-square.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "format": "PNG",
+      "mode": "RGB",
+      "hash_matches": true
+    },
+    {
+      "file": "exports/unwrap-portrait.png",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "format": "PNG",
+      "mode": "RGB",
+      "hash_matches": true
+    },
+    {
+      "file": "exports/unwrap-story.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "format": "PNG",
+      "mode": "RGB",
+      "hash_matches": true
+    },
+    {
+      "file": "exports/unwrap-banner.png",
+      "dimensions": [
+        1500,
+        500
+      ],
+      "format": "PNG",
+      "mode": "RGB",
+      "hash_matches": true
+    },
+    {
+      "file": "exports/unwrap-avatar.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "PNG",
+      "mode": "RGB",
+      "hash_matches": true
+    },
+    {
+      "file": "exports/unwrap-ui-preview.png",
+      "dimensions": [
+        1440,
+        918
+      ],
+      "format": "PNG",
+      "mode": "RGBA",
+      "hash_matches": true
+    }
+  ],
+  "original_screenshot_preserved": true,
+  "svg_resources_embedded": true,
+  "visual_review": "All seven layouts reviewed; product footer and story safe zones corrected."
+}

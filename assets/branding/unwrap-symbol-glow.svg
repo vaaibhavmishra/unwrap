@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none"><defs><radialGradient id="halo"><stop stop-color="#22D982" stop-opacity=".21"/><stop offset=".55" stop-color="#22D982" stop-opacity=".07"/><stop offset="1" stop-color="#22D982" stop-opacity="0"/></radialGradient></defs><ellipse cx="294" cy="338" rx="204" ry="168" fill="url(#halo)"/><defs>
+    <linearGradient id="emerald" x1="348" y1="96" x2="260" y2="432" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#55EBA1"/>
+      <stop offset=".48" stop-color="#22D982"/>
+      <stop offset="1" stop-color="#0EA362"/>
+    </linearGradient>
+    <linearGradient id="pearl" x1="135" y1="108" x2="270" y2="426" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5F5F5"/>
+      <stop offset=".58" stop-color="#E0F5EB"/>
+      <stop offset="1" stop-color="#A7F3D0"/>
+    </linearGradient>
+    <linearGradient id="fold" x1="170" y1="144" x2="232" y2="355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0D0E" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#0B0D0E" stop-opacity="0"/>
+    </linearGradient>
+  </defs><path d="M96 88 190 126V274C190 321 215 346 256 346S322 321 322 274V126L416 88V279C416 377 354 432 256 432S96 377 96 279Z" fill="url(#emerald)"/><path d="M96 88 190 126V274C190 313 207 336 236 344L284 430C275 431 266 432 256 432 158 432 96 377 96 279Z" fill="url(#pearl)"/><path d="M170 118 190 126V274C190 313 207 336 236 344L256 379C201 368 170 333 170 278Z" fill="url(#fold)"/></svg>

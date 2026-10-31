@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Unwrap — V7 Glow identity</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="tokens.css">
+    <style>
+      @font-face { font-family: Inter; src: url('source/fonts/Inter-Regular.ttf') format('truetype'); font-weight: 400; font-display: swap; }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: #0B0D0E; color: #F5F5F5; font: 15px/1.65 Inter, system-ui, sans-serif; }
+      a { color: inherit; text-underline-offset: 5px; }
+      .wrap { max-width: 1184px; padding: 0 32px; margin: auto; }
+      header { display: flex; align-items: center; justify-content: space-between; padding: 24px 0; border-bottom: 1px solid #29302D; }
+      header img { width: 170px; height: auto; }
+      nav { display: flex; gap: 28px; color: #ABB4AF; font-size: 12px; }
+      nav a { text-decoration: none; }
+      .hero { min-height: 550px; display: grid; grid-template-columns: 1.2fr 1fr; align-items: center; gap: 40px; }
+      .eyebrow { text-transform: uppercase; letter-spacing: .18em; color: #22D982; font-size: 11px; }
+      h1 { font-size: clamp(40px, 5vw, 66px); line-height: 1.08; letter-spacing: -.065em; font-weight: 400; margin: 28px 0 22px; }
+      .hero p { max-width: 400px; color: #ABB4AF; }
+      .hero img { width: 100%; max-width: 410px; justify-self: center; }
+      .hero .meta { font-size: 11px; color: #8A8F98; margin-top: 32px; letter-spacing: .05em; }
+      section { padding: 46px 0 54px; border-top: 1px solid #29302D; }
+      .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 24px; margin-bottom: 26px; }
+      h2 { font-size: 23px; font-weight: 400; letter-spacing: -.04em; margin: 0; }
+      .section-head p { color: #8A8F98; font-size: 12px; margin: 0; }
+      .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+      figure { margin: 0; }
+      .stage { background: #15191A; padding: 40px 24px; min-height: 260px; display: flex; align-items: center; justify-content: center; }
+      .stage.light { background: #F5F5F5; color: #0B0D0E; }
+      .stage img { width: 100%; max-width: 440px; }
+      .stage .stack { max-width: 205px; }
+      figcaption { color: #8A8F98; font-size: 11px; padding: 12px 0 24px; display: flex; justify-content: space-between; }
+      .variants { display: grid; grid-template-columns: repeat(6, 1fr); gap: 16px; }
+      .variants img { width: 100%; }
+      .variants figcaption { justify-content: center; }
+      .size-stage { min-height: 230px; padding: 28px; display: flex; gap: 25px; align-items: end; flex-wrap: wrap; background: #15191A; }
+      .size-stage.light { background: #F5F5F5; color: #0B0D0E; }
+      .size-stage figure { display: flex; flex-direction: column; align-items: center; }
+      .size-stage img { display: block; }
+      .size-stage figcaption { padding-bottom: 0; }
+      .colors { display: grid; grid-template-columns: repeat(7, 1fr); gap: 14px; }
+      .swatch { height: 80px; border: 1px solid #333A37; }
+      .colors p { font-size: 11px; line-height: 1.7; margin: 10px 0; color: #ABB4AF; }
+      .files { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px 32px; }
+      .files a { display: block; border-bottom: 1px solid #29302D; padding: 12px 0; text-decoration: none; font-size: 13px; }
+      .files small { float: right; color: #8A8F98; }
+      footer { color: #8A8F98; font-size: 11px; padding: 32px 0 48px; border-top: 1px solid #29302D; }
+      @media (max-width: 760px) {
+        .wrap { padding: 0 20px; } nav { gap: 14px; } .hero { grid-template-columns: 1fr; gap: 0; padding: 44px 0; }
+        .hero img { max-width: 270px; } .pair { grid-template-columns: 1fr; } .variants { grid-template-columns: repeat(3, 1fr); }
+        .colors { grid-template-columns: repeat(4, 1fr); } .files { grid-template-columns: 1fr; } .section-head { display: block; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="wrap">
+      <header>
+        <a href="#" aria-label="Unwrap home"><img src="unwrap-logo-lockup.svg" alt="unwrap"></a>
+        <nav aria-label="Brand assets"><a href="#identity">Identity</a><a href="#icons">Icons</a><a href="#files">Files ↗</a></nav>
+      </header>
+      <div class="hero">
+        <div><div class="eyebrow">Unwrap / Visual identity 07</div><h1>Less between you<br>and the terminal.</h1><p>Two surfaces. One open form.<br>Pearl, emerald, and a little room to breathe.</p><div class="meta">V7 GLOW &nbsp; / &nbsp; NATIVE TERMINAL &nbsp; / &nbsp; OCTOBER 2026</div></div>
+        <img src="unwrap-app-icon-1024.png" alt="Unwrap app icon: pearl and emerald U on a dark rounded square">
+      </div>
+      <section id="identity">
+        <div class="section-head"><h2>01 — The signature</h2><p>One geometry, across every expression.</p></div>
+        <div class="pair">
+          <figure><div class="stage"><img src="unwrap-logo-lockup-dark.svg" alt="Horizontal Unwrap lockup on dark"></div><figcaption>Dark background <span>SVG / path outlines</span></figcaption></figure>
+          <figure><div class="stage light"><img src="unwrap-logo-lockup-light.svg" alt="Horizontal Unwrap lockup on light"></div><figcaption>Light background <span>SVG / path outlines</span></figcaption></figure>
+          <figure><div class="stage"><img class="stack" src="unwrap-logo-stacked-dark.svg" alt="Stacked Unwrap lockup"></div><figcaption>Stacked signature</figcaption></figure>
+          <figure><div class="stage light"><img src="unwrap-logo-lockup-black.svg" alt="One-color black Unwrap lockup"></div><figcaption>Single-color silhouette</figcaption></figure>
+        </div>
+      </section>
+      <section id="icons">
+        <div class="section-head"><h2>02 — The icon family</h2><p>1024 px RGBA masters. No wordmark inside the icon.</p></div>
+        <div class="variants">
+          <figure><img src="unwrap-app-icon-glow.png" alt="Glow icon"><figcaption>V7 Glow</figcaption></figure>
+          <figure><img src="unwrap-app-icon-dark.png" alt="Dark icon"><figcaption>Dark</figcaption></figure>
+          <figure><img src="unwrap-app-icon-light.png" alt="Light icon"><figcaption>Light</figcaption></figure>
+          <figure><img src="unwrap-app-icon-flat.png" alt="Flat icon"><figcaption>Flat</figcaption></figure>
+          <figure><img src="unwrap-app-icon-mono.png" alt="Monochrome icon"><figcaption>Mono</figcaption></figure>
+          <figure><img src="unwrap-app-icon-outline.png" alt="Outline icon"><figcaption>Outline</figcaption></figure>
+        </div>
+        <div class="pair">
+          <div class="size-stage" aria-label="Icons on dark background at actual CSS sizes">
+            <figure><img src="unwrap-icon-128.png" width="128" height="128" alt="128 pixel icon"><figcaption>128</figcaption></figure>
+            <figure><img src="unwrap-icon-64.png" width="64" height="64" alt="64 pixel icon"><figcaption>64</figcaption></figure>
+            <figure><img src="unwrap-icon-32.png" width="32" height="32" alt="32 pixel icon"><figcaption>32</figcaption></figure>
+            <figure><img src="unwrap-icon-16.png" width="16" height="16" alt="16 pixel icon"><figcaption>16</figcaption></figure>
+          </div>
+          <div class="size-stage light" aria-label="Icons on light background at actual CSS sizes">
+            <figure><img src="unwrap-icon-128.png" width="128" height="128" alt="128 pixel icon"><figcaption>128</figcaption></figure>
+            <figure><img src="unwrap-icon-64.png" width="64" height="64" alt="64 pixel icon"><figcaption>64</figcaption></figure>
+            <figure><img src="favicon-32.png" width="32" height="32" alt="32 pixel favicon"><figcaption>32</figcaption></figure>
+            <figure><img src="favicon-16.png" width="16" height="16" alt="16 pixel favicon"><figcaption>16</figcaption></figure>
+          </div>
+        </div>
+      </section>
+      <section>
+        <div class="section-head"><h2>03 — Color, with purpose</h2><p>A neutral foundation. One clear accent.</p></div>
+        <div class="colors">
+          <div><div class="swatch" style="background:#0B0D0E"></div><p>Background<br>#0B0D0E</p></div>
+          <div><div class="swatch" style="background:#22D982"></div><p>Emerald<br>#22D982</p></div>
+          <div><div class="swatch" style="background:#0EA362"></div><p>Deep emerald<br>#0EA362</p></div>
+          <div><div class="swatch" style="background:#A7F3D0"></div><p>Mint glow<br>#A7F3D0</p></div>
+          <div><div class="swatch" style="background:#F5F5F5"></div><p>Light surface<br>#F5F5F5</p></div>
+          <div><div class="swatch" style="background:#8A8F98"></div><p>Secondary<br>#8A8F98</p></div>
+          <div><div class="swatch" style="background:#15191A"></div><p>Dark surface<br>#15191A</p></div>
+        </div>
+      </section>
+      <section id="files">
+        <div class="section-head"><h2>04 — Ready to use</h2><p>Every image on this page is an exported asset.</p></div>
+        <div class="files">
+          <a href="unwrap-symbol.svg">Editable symbol <small>SVG ↗</small></a>
+          <a href="unwrap-app-icon-1024.png">Application master <small>PNG ↗</small></a>
+          <a href="unwrap.icns">macOS icon <small>ICNS ↗</small></a>
+          <a href="unwrap-logo-lockup.svg">Primary signature <small>SVG ↗</small></a>
+          <a href="unwrap.ico">Windows icon <small>ICO ↗</small></a>
+          <a href="BRAND.md">Brand and integration guide <small>MD ↗</small></a>
+          <a href="INVENTORY.md">Complete file inventory <small>MD ↗</small></a>
+          <a href="validation.json">Export validation <small>JSON ↗</small></a>
+          <a href="tokens.json">Design tokens <small>JSON ↗</small></a>
+        </div>
+      </section>
+      <footer>unwrap &nbsp; / &nbsp; V7 Glow &nbsp; — &nbsp; Vector-first identity. Inter wordmark. Built for a little more clarity.</footer>
+    </main>
+  </body>
+</html>

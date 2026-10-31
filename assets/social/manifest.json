@@ -1,0 +1,87 @@
+{
+  "brand": "Unwrap V7 Glow",
+  "date": "2026-10-30",
+  "sourceScreenshot": "app/assets/async/png/onboarding/agent_intention/theme/theme_dark_horizontal.png",
+  "screenshotTreatment": "Existing developer marketing screenshot, cropped to remove reflection; top tab strip replaced by Unwrap mark and title. Agent transcript, command text and code review content remain source pixels. Detail crop preserves original code-editing panel. These are rebranded marketing composites, not live captures of the current Unwrap build.",
+  "items": [
+    {
+      "name": "unwrap-launch-landscape",
+      "width": 1200,
+      "height": 630,
+      "description": "Unwrap launch graphic with rebranded repository UI preview",
+      "png": "exports/unwrap-launch-landscape.png",
+      "svg": "source/unwrap-launch-landscape.svg",
+      "bytes": 109138,
+      "sha256": "eeece89d886bbb73f3824222952f00679c8dcdec36ada89dbe2fb68ddb5edbb4"
+    },
+    {
+      "name": "unwrap-product-screenshot",
+      "width": 1920,
+      "height": 1080,
+      "description": "Branded Unwrap product showcase adapted from the repository screenshot",
+      "png": "exports/unwrap-product-screenshot.png",
+      "svg": "source/unwrap-product-screenshot.svg",
+      "bytes": 264420,
+      "sha256": "cb93bc00c3cc0e114ec1e49b71fcb782a1a7016328488494e58692cc06d52038"
+    },
+    {
+      "name": "unwrap-square",
+      "width": 1080,
+      "height": 1080,
+      "description": "Unwrap square social post with actual code-review screenshot detail",
+      "png": "exports/unwrap-square.png",
+      "svg": "source/unwrap-square.svg",
+      "bytes": 161932,
+      "sha256": "94df43c32f109b70bd47e4794ab71f64c1e00d94191e325a00ff97fa3f3e0aed"
+    },
+    {
+      "name": "unwrap-portrait",
+      "width": 1080,
+      "height": 1350,
+      "description": "Unwrap portrait social post with rebranded repository UI preview",
+      "png": "exports/unwrap-portrait.png",
+      "svg": "source/unwrap-portrait.svg",
+      "bytes": 199899,
+      "sha256": "047c82c9e40d45a8d3fdc540218c9f9ce04dcad34616c9b9799684662fdafea4"
+    },
+    {
+      "name": "unwrap-story",
+      "width": 1080,
+      "height": 1920,
+      "description": "Unwrap story post with 250-pixel top and bottom copy safe zones",
+      "png": "exports/unwrap-story.png",
+      "svg": "source/unwrap-story.svg",
+      "bytes": 225547,
+      "sha256": "9f0d11504ba270da51f6ccaaf30b1bba1d6ea73a7f05ddb6b82106daab2b20a9"
+    },
+    {
+      "name": "unwrap-banner",
+      "width": 1500,
+      "height": 500,
+      "description": "Unwrap social profile banner with clear lower-left avatar area",
+      "png": "exports/unwrap-banner.png",
+      "svg": "source/unwrap-banner.svg",
+      "bytes": 61711,
+      "sha256": "7b903cdbd77e0d96c84466fa2e8133ea884fd2ac2df4dff0ea8196398e3a7437"
+    },
+    {
+      "name": "unwrap-avatar",
+      "width": 1024,
+      "height": 1024,
+      "description": "Unwrap profile avatar using the original symbol without wordmark",
+      "png": "exports/unwrap-avatar.png",
+      "svg": "source/unwrap-avatar.svg",
+      "bytes": 57525,
+      "sha256": "0a6d10e80c867e4a6783e3629d0e0746c5198ce587b3d531da2cd917965a55b0"
+    },
+    {
+      "name": "unwrap-ui-preview",
+      "width": 1440,
+      "height": 918,
+      "description": "Standalone rebranded repository screenshot composite",
+      "png": "exports/unwrap-ui-preview.png",
+      "bytes": 241312,
+      "sha256": "fe6da8cfd50797670be1abd9aeecabdfe413bff343143fa53739d6f34e49fcde"
+    }
+  ]
+}

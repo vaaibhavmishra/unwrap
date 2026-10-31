@@ -1,0 +1,487 @@
+{
+  "png": [
+    {
+      "file": "apple-touch-icon.png",
+      "size": [
+        180,
+        180
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "favicon-16.png",
+      "size": [
+        16,
+        16
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "favicon-32.png",
+      "size": [
+        32,
+        32
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-app-icon-1024.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-app-icon-dark.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-app-icon-flat.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-app-icon-glow.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-app-icon-light.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-app-icon-mono.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-app-icon-outline.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-icon-128.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-icon-16.png",
+      "size": [
+        16,
+        16
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-icon-256.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-icon-32.png",
+      "size": [
+        32,
+        32
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-icon-48.png",
+      "size": [
+        48,
+        48
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-icon-512.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-icon-64.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-logo-lockup-black.png",
+      "size": [
+        1120,
+        384
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-logo-lockup-dark.png",
+      "size": [
+        1120,
+        384
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-logo-lockup-light.png",
+      "size": [
+        1120,
+        384
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-logo-lockup-white.png",
+      "size": [
+        1120,
+        384
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-logo-stacked-black.png",
+      "size": [
+        1024,
+        1040
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-logo-stacked-dark.png",
+      "size": [
+        1024,
+        1040
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-logo-stacked-light.png",
+      "size": [
+        1024,
+        1040
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-logo-stacked-white.png",
+      "size": [
+        1024,
+        1040
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-symbol-glow.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap-symbol.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap.iconset/icon_128x128.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap.iconset/icon_128x128@2x.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap.iconset/icon_16x16.png",
+      "size": [
+        16,
+        16
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap.iconset/icon_16x16@2x.png",
+      "size": [
+        32,
+        32
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap.iconset/icon_256x256.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap.iconset/icon_256x256@2x.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap.iconset/icon_32x32.png",
+      "size": [
+        32,
+        32
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap.iconset/icon_32x32@2x.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap.iconset/icon_512x512.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "unwrap.iconset/icon_512x512@2x.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    }
+  ],
+  "svg": [
+    {
+      "file": "favicon.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "source/unwrap-app-icon-dark.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "source/unwrap-app-icon-flat.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "source/unwrap-app-icon-glow.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "source/unwrap-app-icon-light.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "source/unwrap-app-icon-mono.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "source/unwrap-app-icon-outline.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "unwrap-logo-lockup-black.svg",
+      "viewBox": "0 0 560 192"
+    },
+    {
+      "file": "unwrap-logo-lockup-dark.svg",
+      "viewBox": "0 0 560 192"
+    },
+    {
+      "file": "unwrap-logo-lockup-light.svg",
+      "viewBox": "0 0 560 192"
+    },
+    {
+      "file": "unwrap-logo-lockup-white.svg",
+      "viewBox": "0 0 560 192"
+    },
+    {
+      "file": "unwrap-logo-lockup.svg",
+      "viewBox": "0 0 560 192"
+    },
+    {
+      "file": "unwrap-logo-stacked-black.svg",
+      "viewBox": "0 0 512 520"
+    },
+    {
+      "file": "unwrap-logo-stacked-dark.svg",
+      "viewBox": "0 0 512 520"
+    },
+    {
+      "file": "unwrap-logo-stacked-light.svg",
+      "viewBox": "0 0 512 520"
+    },
+    {
+      "file": "unwrap-logo-stacked-white.svg",
+      "viewBox": "0 0 512 520"
+    },
+    {
+      "file": "unwrap-symbol-black.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "unwrap-symbol-flat.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "unwrap-symbol-glow.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "unwrap-symbol-light.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "unwrap-symbol-mono.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "unwrap-symbol-outline.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "unwrap-symbol-small.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "unwrap-symbol-white.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "unwrap-symbol.svg",
+      "viewBox": "0 0 512 512"
+    },
+    {
+      "file": "unwrap-wordmark-dark.svg",
+      "viewBox": "0 0 400 112"
+    },
+    {
+      "file": "unwrap-wordmark-light.svg",
+      "viewBox": "0 0 400 112"
+    }
+  ],
+  "icns": [
+    {
+      "type": "icp4",
+      "pixels": 16
+    },
+    {
+      "type": "ic11",
+      "pixels": 32
+    },
+    {
+      "type": "icp5",
+      "pixels": 32
+    },
+    {
+      "type": "ic12",
+      "pixels": 64
+    },
+    {
+      "type": "ic07",
+      "pixels": 128
+    },
+    {
+      "type": "ic13",
+      "pixels": 256
+    },
+    {
+      "type": "ic08",
+      "pixels": 256
+    },
+    {
+      "type": "ic14",
+      "pixels": 512
+    },
+    {
+      "type": "ic09",
+      "pixels": 512
+    },
+    {
+      "type": "ic10",
+      "pixels": 1024
+    }
+  ],
+  "integration": [
+    "app/channels/oss/icon/unwrap.icns",
+    "app/channels/oss/icon/no-padding/icon.ico",
+    "app/assets/bundled/svg/warp-logo-light.svg",
+    "app/assets/bundled/svg/warp-logo-dark.svg",
+    "app/assets/bundled/svg/warp-logo-neutral.svg",
+    "app/assets/bundled/svg/warp-logo-with-light-title.svg",
+    "app/assets/bundled/svg/warp-logo-with-dark-title.svg",
+    "app/channels/oss/icon/no-padding/16x16.png",
+    "app/channels/oss/icon/no-padding/32x32.png",
+    "app/channels/oss/icon/no-padding/48x48.png",
+    "app/channels/oss/icon/no-padding/64x64.png",
+    "app/channels/oss/icon/no-padding/128x128.png",
+    "app/channels/oss/icon/no-padding/256x256.png",
+    "app/channels/oss/icon/no-padding/512x512.png"
+  ],
+  "checks": [
+    "ICNS: ten native representations; ICO: seven decoded representations",
+    "16px and 32px: open center, visible arms and unified base",
+    "Packaging references exist; OSS display names agree; persistent app ID preserved",
+    "Preview references resolve to actual exported files"
+  ],
+  "contrast": [
+    {
+      "foreground": "#0D9F5F",
+      "background": "#0B0D0E",
+      "ratio": 5.7
+    },
+    {
+      "foreground": "#0D9F5F",
+      "background": "#F5F5F5",
+      "ratio": 3.14
+    }
+  ],
+  "status": "passed"
+}

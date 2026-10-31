@@ -73,4 +73,3 @@ __pycache__/
 .claude/scheduled_tasks.lock
 
 /brag-output
-/assets

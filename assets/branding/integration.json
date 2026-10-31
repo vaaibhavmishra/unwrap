@@ -1,0 +1,16 @@
+{
+  "unwrap.icns": "app/channels/oss/icon/unwrap.icns",
+  "unwrap.ico": "app/channels/oss/icon/no-padding/icon.ico",
+  "unwrap-symbol.svg": "app/assets/bundled/svg/warp-logo-light.svg",
+  "unwrap-symbol-light.svg": "app/assets/bundled/svg/warp-logo-dark.svg",
+  "unwrap-symbol-mono.svg": "app/assets/bundled/svg/warp-logo-neutral.svg",
+  "unwrap-logo-lockup-dark.svg": "app/assets/bundled/svg/warp-logo-with-light-title.svg",
+  "unwrap-logo-lockup-light.svg": "app/assets/bundled/svg/warp-logo-with-dark-title.svg",
+  "unwrap-icon-16.png": "app/channels/oss/icon/no-padding/16x16.png",
+  "unwrap-icon-32.png": "app/channels/oss/icon/no-padding/32x32.png",
+  "unwrap-icon-48.png": "app/channels/oss/icon/no-padding/48x48.png",
+  "unwrap-icon-64.png": "app/channels/oss/icon/no-padding/64x64.png",
+  "unwrap-icon-128.png": "app/channels/oss/icon/no-padding/128x128.png",
+  "unwrap-icon-256.png": "app/channels/oss/icon/no-padding/256x256.png",
+  "unwrap-icon-512.png": "app/channels/oss/icon/no-padding/512x512.png"
+}
